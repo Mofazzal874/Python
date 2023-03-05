@@ -1,6 +1,8 @@
 #Mofazzal Hosen
 #KUET
-#code source:Apna college : Introduction to Python Programming
+#code source:Apna college : Introduction to Python Programming in 1.5hours
+
+#Note link: https://docs.google.com/document/d/1jcF_Nocy9CYUnakTu0LCjd8snmNskSVeP1VQcm_l5Q0/edit
 
 
 #####Basics of Python 
